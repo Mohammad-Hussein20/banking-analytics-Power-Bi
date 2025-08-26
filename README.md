@@ -50,4 +50,13 @@ The model uses three tables (column names preserved as in source):
 ---
 
 ## Project Structure
+## Dashboard Overview
+![Dashboard Overview](banking-analytics-Power-Bi/Customer Financial Health.png)
+
+## Sales Trends
+![Sales Trends](banking-analytics-Power-Bi/Card Security and Usage.png)
+
+## HR Analysis
+![HR Analysis](banking-analytics-Power-Bi/Transaction Intelligence Dashboard.png)
+
 
