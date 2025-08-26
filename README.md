@@ -48,6 +48,16 @@ The model uses three tables (column names preserved as in source):
   - Type coercion, currency cleanup, standardization, quality flags (no destructive drops).
 
 ---
+## Project Structure
+
+## Customer Financial Health
+![Customer Financial Health](banking-analytics-Power-Bi/Customer%20Financial%20Health.png)
+
+## Card Security and Usage
+![Card Security and Usage](banking-analytics-Power-Bi/Card%20Security%20and%20Usage.png)
+
+## Transaction Intelligence Dashboard
+![Transaction Intelligence Dashboard](banking-analytics-Power-Bi/Transaction%20Intelligence%20Dashboard.png)
 
 
 
